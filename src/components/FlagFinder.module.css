@@ -87,3 +87,17 @@ input::placeholder{
     font-weight: 800;
     color:#bfc6c9;
 }
+
+@media screen and (max-width: 480px) {
+    body {
+     width: auto;
+     padding: 0px 0px 0px 0px;
+     margin: 0px 0px 0px 0px;
+    }
+    .container{
+        padding: 0px 10px 0px 10px;
+        margin: 50px auto 50px auto;
+        height: 90vh;
+        width: auto;
+    }
+  }
