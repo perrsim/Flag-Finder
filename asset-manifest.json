@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Flag-Finder/static/css/main.033ee03c.css",
+    "main.js": "/Flag-Finder/static/js/main.f5c78706.js",
+    "static/js/787.c318f016.chunk.js": "/Flag-Finder/static/js/787.c318f016.chunk.js",
+    "index.html": "/Flag-Finder/index.html",
+    "main.033ee03c.css.map": "/Flag-Finder/static/css/main.033ee03c.css.map",
+    "main.f5c78706.js.map": "/Flag-Finder/static/js/main.f5c78706.js.map",
+    "787.c318f016.chunk.js.map": "/Flag-Finder/static/js/787.c318f016.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.033ee03c.css",
+    "static/js/main.f5c78706.js"
+  ]
+}
