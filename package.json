@@ -38,6 +38,6 @@
     ]
   },
   "devDependencies": {
-    "typescript": "^5.2.2"
+    "gh-pages": "^6.0.0"
   }
 }
